@@ -1,0 +1,21 @@
+{
+  "id": 128,
+  "title": "Hydroponic Nutrient Station Animal Intrusion Alarm",
+  "repository_slug": "hydroponic-nutrient-station-animal-intrusion-alarm",
+  "category": "Smart Agriculture",
+  "platform": "Arduino Mega",
+  "platform_family": "arduino",
+  "difficulty": "Intermediate",
+  "estimated_hours": 24,
+  "connectivity": "Wi-Fi",
+  "components": [
+    "camera module",
+    "flow sensor",
+    "LoRa module"
+  ],
+  "scope": "Build a smart agriculture prototype that uses camera module, flow sensor, LoRa module to detect and report animal movement. Include setup instructions, a circuit diagram, tested firmware, and sample output.",
+  "key_deliverable": "Animal Intrusion Alarm demonstration with repeatable test steps",
+  "mode": "threshold_alert",
+  "entrypoint": "firmware/hydroponic-nutrient-station-animal-intrusion-alarm/hydroponic-nutrient-station-animal-intrusion-alarm.ino",
+  "roadmap_source": "openmaker-2100-project-roadmap.xlsx"
+}
